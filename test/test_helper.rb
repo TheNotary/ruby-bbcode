@@ -1,5 +1,6 @@
 require 'ruby-bbcode'
 require "minitest/autorun"
+require 'pry'
 
 # This hack allows us to make all the private methods of a class public.
 class Class
